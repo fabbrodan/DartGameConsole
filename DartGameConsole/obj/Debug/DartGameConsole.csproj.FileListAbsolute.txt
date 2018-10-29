@@ -1,0 +1,7 @@
+C:\Users\DAS\source\repos\DartGameConsole\DartGameConsole\bin\Debug\DartGameConsole.exe.config
+C:\Users\DAS\source\repos\DartGameConsole\DartGameConsole\bin\Debug\DartGameConsole.exe
+C:\Users\DAS\source\repos\DartGameConsole\DartGameConsole\bin\Debug\DartGameConsole.pdb
+C:\Users\DAS\source\repos\DartGameConsole\DartGameConsole\obj\Debug\DartGameConsole.csprojResolveAssemblyReference.cache
+C:\Users\DAS\source\repos\DartGameConsole\DartGameConsole\obj\Debug\DartGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\DAS\source\repos\DartGameConsole\DartGameConsole\obj\Debug\DartGameConsole.exe
+C:\Users\DAS\source\repos\DartGameConsole\DartGameConsole\obj\Debug\DartGameConsole.pdb

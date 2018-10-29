@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DartGameConsole", "DartGameConsole\DartGameConsole.csproj", "{9C72F400-4DB4-4116-83CC-5459640D40BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C72F400-4DB4-4116-83CC-5459640D40BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C72F400-4DB4-4116-83CC-5459640D40BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C72F400-4DB4-4116-83CC-5459640D40BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C72F400-4DB4-4116-83CC-5459640D40BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0869AE99-DF60-4E69-A9DF-AADE0D21576A}
+	EndGlobalSection
+EndGlobal
